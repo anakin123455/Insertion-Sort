@@ -38,7 +38,7 @@ SOFTWARE.
 ## 🚀 About Me
 - [@TikTok](https://www.tiktok.com/@anakin12345_official)
 - [@Twitch](https://www.twitch.tv/anakin12345_)
-- [@YouTube](www.youtube.com/@anakin12345)
+- [@YouTube](https://www.youtube.com/@anakin12345)
 
 
 ## Documentation
